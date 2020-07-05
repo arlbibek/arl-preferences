@@ -1,0 +1,28 @@
+Windows Product Key
+
+#To remove activate windows watermark
+1. Create remove.bat file with the following text
+
+  @echo off
+  taskkill /F /IM explorer.exe
+  explorer.exe
+  exit
+
+2. restart your pc
+-----------------------------------------------------------------------------
+#To remove product key
+
+1. ON CMD type: 
+  slmgr.vbs -upk
+
+#Uninstall product key
+
+1. ON CMD type: 
+  slmgr /upk 
+
+#Clear product key from registry
+
+1. ON CMD type: 
+  slmgr /cpky 
+
+#The End
