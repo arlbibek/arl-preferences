@@ -1,27 +1,30 @@
 ##Remove Linux from Dual Boot Windows 10
 ## After you delete you Linux Partition from Windows 10 do following things: 
 
-# Open Command Prompt (CMD) (as Administrator)
-# Type following commands: 
++-- Open Command Prompt (CMD) (as Administrator)
+|    +-- Type following commands: 
+|    |
+|    |    diskpart
+|    |    list disk			    # list all harddrives on your pc
+|    |    select disk 0 		# Select disk you want to select i.e. '0'
+|    |    list volume 			# this hall list your disk's partition info
+|    |    select volume 2 		# select one where the Volume 'Info' is labled 'System' i.e '3'
+|    |    assign letter=z		# assigh letter 'z' to the selected volume
+|    |    exit 				    # exit diskpart
+|
++-- Go to 'This PC' using File Explorer, you shall see Local Disk (z:) mounted to you computer.
+|
++-- Agian: Open CMD as Administrator
+|    +-- Type following commands:
+|    |
+|    |    z:
+|    |    dir				    # list all directories in the 'z'
+|    |    cd EFI                # this shall take you inside the 'EFI' directory
+|    |    dir 				    # list all directories inside the 'EFI'
+|    |    rmdir /S kali-linux	# remove os files i.e. kali-linux
+|    |                              Be Cautious! Do not to remove anything important.
+|
++-- restart your pc and every thing should be fine.
++---------------------------------------------------------------------------------------------------
 
-	diskpart
-  	list disk			# list all harddrives on your pc
-  	select disk 0 			# Select disk you want to select i.e. '0'
-  	list volume 			# this hall list your disk's partition info
-  	select volume 2 		# select one where the Volume 'Info' is labled 'System' i.e '3'
-  	assign letter=z			# assigh letter 'z' to the selected volume
-  	exit 				# exit diskpart
-
-# Go to 'This PC' using File Explorer, you shall see Local Disk (z:) mounted to you computer.
-
-# Agian: Open CMD as Administrator
-# Type following commands:
-
-	z:
-	dir				# list all directories in the 'z'
-	cd efi				# this shall take you inside the 'EFI' directory
-	dir 				# list all directories inside the 'EFI'
-	rmdir /S kali-linux		# remove os files i.e. kali-linux (Be Cautious and donot remove anything important)
-
-# restart your pc and every thing should be fine.
 # The End
