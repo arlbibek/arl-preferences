@@ -1,50 +1,47 @@
-# All the Windws softwares and android app that I use daily.
-
-
-
-
-
+# Apps and Softwares that I use daily.
 
 ## WINDOWS
-Firefox
-Tor
+### - Firefox
+### - +-- Tor
 
-Microsoft Office 365
-Gramarly for Microsoft
+### - Microsoft Office 365
+#### - Gramarly for Microsoft
 
-GIMP
-Sharex
-Paint.net
-Avdimux
-OBS Studio
-Adobe Premier Pro
+### - GIMP
+### - Sharex
+### - Paint.net
+### - Avdimux
+### - OBS Studio
+### - Adobe Premier Pro
 
-VLC
-Spotify
-MusicBee
-Discord
+### - VLC
+### - Spotify
+### - MusicBee
+### - Discord
 
-Back and Sync from Google
-Internet Download Manger
-qbittorrent
-syncthing
-KeePass
-winRAR
+### - Back Up and Sync from Google
+### - Internet Download Manger
+### - qbittorrent
+### - syncthing
+### - KeePass
+### - winRAR
 
-Sublime
-Notepad++
-Calibre
-SumatraPDF
+### - Sublime
+### - Notepad++
+### - Calibre
+### - SumatraPDF
 
-Oracle VirtualBox
-Cisco Packet Tracer
-Debian (Windows subsystem for Linux)
-GNS3
+### - Oracle VirtualBox
+### - Cisco Packet Tracer
+### - Debian (Windows subsystem for Linux)
+### - GNS3
 
-DB Browser for SQLite
-Android Studio
-Python 
-Git
+### - DB Browser for SQLite
+### - Android Studio
+### - Python 
+### - Git
+
+---
 
 ## ANDROID
 
@@ -93,4 +90,5 @@ GitHub
 Termux
 Syncthing
 
-+-- Websites
+## Websites
+ 
