@@ -32,4 +32,5 @@ slmgr /upk
 slmgr /cpky
 ```
 >Also: I don't know what these command actually does. I copied it from the internet.
+
 \# The End
