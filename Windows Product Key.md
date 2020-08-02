@@ -15,12 +15,15 @@ exit
 
 ## Product Key
 
-1. ON CMD enter following command:
+__ON CMD enter following command:__
 
-`slmgr.vbs -upk`    # To Remove product key
+\# To Remove product key
+`slmgr.vbs -upk`      
 
-`slmgr /upk`        # To Uninstall product key
+\# To Uninstall product key
+`slmgr /upk`        
 
-`slmgr /cpky`       # To clear product key from registry
+\# To clear product key from registry
+`slmgr /cpky`       
 
 \# The End
