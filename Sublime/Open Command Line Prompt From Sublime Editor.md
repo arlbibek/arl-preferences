@@ -34,6 +34,6 @@ class CmdCommand(sublime_plugin.TextCommand):
 - Click on it.
 - The command prompt will be opened through which you can compile and run your program.
 
-Reference: https://www.csestack.org/open-command-line-prompt-from-sublime-windows/
+>Reference: https://www.csestack.org/open-command-line-prompt-from-sublime-windows/
 
 \# The End.
