@@ -1,5 +1,6 @@
 {
     "color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+    "theme": "Adaptive.sublime-theme",
     "highlight_line": true,
     "highlight_modified_tabs": true,
     "ignored_packages":
@@ -14,7 +15,6 @@
     "show_full_path": false,
     "sidebar_default": true,
     "swallow_startup_errors": true,
-    "theme": "Adaptive.sublime-theme",
     "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true,
     "use_simple_full_screen": true,
