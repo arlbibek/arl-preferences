@@ -9,7 +9,7 @@
 4. Open terminal on the folder you copied these file and enter following commands as root user.
 ```sh
 chmod +x VBoxLinuxAdditions.run
-
+``````
 ./VBoxLinuxAdditions.run
 ```
 6. Reboot
