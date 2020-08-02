@@ -13,10 +13,8 @@ chmod +x VBoxLinuxAdditions.run
 ./VBoxLinuxAdditions.run
 ```
 6. Reboot
-
-## That is all.
-
 7. Remove all the copied files and Unmount/Eject the iso file.
+## That is all.
 
 Reference: https://www.youtube.com/watch?v=6LaHG8SC8n4
 
