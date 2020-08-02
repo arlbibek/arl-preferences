@@ -1,7 +1,9 @@
 # Sublime Packages
 
 Package Control:
-	1337 Color Scheme
+
+    1337 Color Scheme
 	BracketHighlighter
 	SideBarEnhancements
 	Anaconda
+    Markdown Preview
