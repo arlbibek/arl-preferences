@@ -15,7 +15,7 @@ assign letter=z                 # assigh letter 'z' to the selected volume
 exit                            # exit diskpart
 ```
 
-4. [Optional] Go to 'This PC' using File Explorer, you shall see Local Disk (z:) mounted to you computer.
+4. Go to 'This PC' using File Explorer, you shall see 'Local Disk (z:)' mounted to you computer.
 
 5. Agian: Open CMD as Administrator
 6. Type following commands:
