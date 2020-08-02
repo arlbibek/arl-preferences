@@ -19,13 +19,14 @@ exit                            # exit diskpart
 
 5. Agian: Open CMD as Administrator
 6. Type following commands:
-
+```
 z:
 dir                             # list all directories in the 'z'
 cd EFI                          # this shall take you inside the 'EFI' directory
 dir                             # list all directories inside the 'EFI'
 rmdir /S kali-linux             # remove os files (in my case kali-linux)
                                 <br>(Be Cautious! Do not to remove anything important.)
+```
 
 7. Restart your pc and you should boot into Windows.
 
