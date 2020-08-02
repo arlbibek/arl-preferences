@@ -1,5 +1,5 @@
 # Personal Preferences
  -  Personal preferences for different apps and softwares that I use.
- -  Some how to's for future use
+ -  This is for future references.
 
  # The End
