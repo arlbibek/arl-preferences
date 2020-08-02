@@ -1,0 +1,33 @@
+# My CTRL + ALT Shortcuts for Windows
+
+A =
+B = Backup and Sync from Google
+C = Control Pannel
+D = Discord
+E =
+F = Firefox
+G = GIMP
+H =
+I = Internet Download Manager(IDM)
+J =
+K = On-screec Keyboard
+L =
+M = Spotify
+N = Notepad
+O = OBS Studio
+P = Python(py.exe)
+Q = qbittorrent
+R = calibre
+S = Sublime Text
+T = Tor Browser
+U =
+V = VLC
+W = Word (Microsoft)
+X = Command Prompt
+Y =
+Z = Powershell
+0 = Keypass
+7 = 7-Zip File Manager
+~ = Syncting
+
+# The End.
