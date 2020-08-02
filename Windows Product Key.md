@@ -19,12 +19,15 @@ exit
 __ON CMD enter following command:__
 
 \# Remove product key
+
 `slmgr.vbs -upk`      
 
 \# Uninstall product key
+
 `slmgr /upk`        
 
 \# Clear product key from registry
+
 `slmgr /cpky`       
 
 \# The End
