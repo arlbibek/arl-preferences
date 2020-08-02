@@ -19,15 +19,17 @@ exit
 __ON CMD enter following command:__
 
 \# Remove product key
-
-`slmgr.vbs -upk`      
-
+```
+slmgr.vbs -upk
+```
 \# Uninstall product key
-
-`slmgr /upk`        
+```
+slmgr /upk
+```
 
 \# Clear product key from registry
-
-`slmgr /cpky`       
-
+```
+slmgr /cpky
+```
+>Also: I don't know what these command actually does. I copied it from the internet.
 \# The End
