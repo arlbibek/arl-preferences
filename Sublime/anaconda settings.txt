@@ -4,7 +4,14 @@
     "anaconda_linter_underlines": false,
     "pep8_ignore":
     [
-        "E501"
+        "E501",
+        "E701"
     ],
+    "autoformat_ignore":
+    [
+        "E309",
+        "E701"
+    ],
+
     "disable_anaconda_completion": true
 }
