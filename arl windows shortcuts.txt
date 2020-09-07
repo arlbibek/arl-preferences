@@ -1,6 +1,6 @@
 # My CTRL + ALT Shortcuts for Windows
 
-A =
+A = Firefox Develover Edition
 B = Backup and Sync from Google
 C = Control Pannel
 D = Discord
