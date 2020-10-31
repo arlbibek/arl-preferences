@@ -4,9 +4,9 @@
 
 1. Clone this repo or Download `CMD/` directory.
 
-2. Copy `CMD/` directory to `Sublime Text 3\Packages` directory.
+2. Copy `CMD/` directory to `Sublime Text 3/Packages/` directory.
 	1. Open Sublime editor.
-	2. Click on the `Preferences` and then select `Browser Packages` (I will take you right to `Sublime Text 3\Packages` directory.)
+	2. Click on the `Preferences` and then select `Browser Packages` (I will take you right to `Sublime Text 3/Packages/` directory.)
 	
 ## Or do it  Mannualy
 
