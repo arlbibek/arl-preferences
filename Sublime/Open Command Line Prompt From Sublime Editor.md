@@ -1,6 +1,14 @@
-# Open Command Line Prompt(CMD) from Sublime Editor in Windows
+# Open Command Line Prompt(CMD) from Sublime Editor in Windows 
 
 **Add 'CMD' in Sublime Text Contex Menu**
+
+1. Download `CMD/` directory.
+
+2. Copy it to `Sublime Text 3\Packages` directory.
+	1. Open Sublime editor.
+	2. Click on the `Preferences` and then select `Browser Packages` (I will take you right to `Sublime Text 3\Packages` directory.)
+	
+## Or do it  Mannualy
 
 1. Open Sublime editor.
 2. Click on the Preferences and then select Browser Packages… (It will open a new window.)
@@ -25,7 +33,7 @@ class CmdCommand(sublime_plugin.TextCommand):
 	 { "command": "cmd" }
 ]
 ```
-## That is all.
+### That is all.
 
 6. Verify:
 
