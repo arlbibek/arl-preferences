@@ -6,6 +6,7 @@
 		"Aryal"
 	],
 	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+	"font_face": "Cascadia Code",
 	"font_size": 16,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
