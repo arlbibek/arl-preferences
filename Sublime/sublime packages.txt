@@ -1,6 +1,0 @@
-# Sublime Packages
-
-Package Control:
-	BracketHighlighter
-	SideBarEnhancements
-	Anaconda
