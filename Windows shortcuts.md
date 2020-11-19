@@ -1,37 +1,38 @@
 # My CTRL + ALT Shortcuts for Windows
 
 ```
-A =
+7 = 7-Zip File Manager
+A = Adobe Premiere Pro 2020
 B = Backup and Sync from Google
-C = Command Prompt
-D =
+C =
+D = Deemix
 E =
 F = Firefox (Personal)
 F + Shift = Firefox (College)
 G = GIMP
-H =
+H = GtkHash
 I = Internet Download Manager(IDM)
 I + Shift = IDM Trial Reset
 J =
-K = On-screec Keyboard
+K = KeePass 2
 L =
-M = MusicBee
+M = Music (Spotify)
+M + Shift = MusicBee
 N = Notepad
 O = OBS Studio
-P = Python(py.exe)
+P = Python3
+P + Shift = PowerPoint
 Q = qbittorrent
-R = calibre
+R =
 S = Sublime Text
-S + Shift = Spotify
+S + Shift = SumatraPDF
 T = Tor Browser
 U = Ubuntu VMware
-V = VLC
-V + Sift = VMware
+V = VLC media player
+V + Shift = VMware
 W = Word (Microsoft)
 X = Windows Terminal
-Y =
-Z = Powershell
-0 = Keypass
-7 = 7-Zip File Manager
-~ = Syncthing
+Y = YouTube (web)
+Z =
+` = Syncthing
 ```
