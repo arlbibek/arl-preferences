@@ -1,20 +1,21 @@
 # My CTRL + ALT Shortcuts for Windows
 
 ```
-A = Firefox Develover Edition
+A =
 B = Backup and Sync from Google
-C = Control Pannel
-D = Discord
+C = Command Prompt
+D =
 E =
 F = Firefox (Personal)
 F + Shift = Firefox (College)
 G = GIMP
 H =
 I = Internet Download Manager(IDM)
+I + Shift = IDM Trial Reset
 J =
 K = On-screec Keyboard
 L =
-M =
+M = MusicBee
 N = Notepad
 O = OBS Studio
 P = Python(py.exe)
@@ -23,15 +24,14 @@ R = calibre
 S = Sublime Text
 S + Shift = Spotify
 T = Tor Browser
-U =
+U = Ubuntu VMware
 V = VLC
+V + Sift = VMware
 W = Word (Microsoft)
-X = Command Prompt
+X = Windows Terminal
 Y =
 Z = Powershell
 0 = Keypass
 7 = 7-Zip File Manager
 ~ = Syncthing
 ```
-
-# The End.
